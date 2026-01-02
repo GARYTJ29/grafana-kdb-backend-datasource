@@ -1,0 +1,8 @@
+{
+  "extends": "@grafana/eslint-config",
+  "rules": {
+    "prettier/prettier": "off",
+    "no-duplicate-imports": "off",
+    "react/prop-types": "off"
+  }
+}
